@@ -6,7 +6,7 @@
  
 #### Other Study Sources
 - [Logic Explanatory text - mathbits.com](http://mathbits.com/MathBits/CompSci/Arrays/Quick.htm) 
-- [Logic Explanatory text - algolist.net](http://www.algolist.net/Algorithms/Sorting/Quicksort) 
+- [Logic Explanatory text - algolist.net](http://www.algolist.net/Algorithms/Sorting/Quicksort)*
 - [GeeksforGeeks](http://quiz.geeksforgeeks.org/quick-sort/)
 - [Video - CS50](https://www.youtube.com/watch?v=aQiWF4E8flQ)
 - [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/sorting/)
